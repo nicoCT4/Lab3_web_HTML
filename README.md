@@ -3,7 +3,7 @@
 ## **Aventura Espacial Interactiva**
 Una historia interactiva en la que cada decisión altera el destino de la misión.
 
-[Explora la Aventura »](https://23197.benedict.lat/SistemasWeb2025/Lab3_web_HTML/index.html)
+[Explora la Aventura »](https://23197.benedict.lat/SistemasWeb2025/lab3/)
 
 ---
 ## **📌 Objetivos**
@@ -84,7 +84,7 @@ lab3_web_HTML/
 
 ---
 ## **📌 Instrucciones para Visualizar la Historia**
-1. **Abre el siguiente link:** [index.html](https://23197.benedict.lat/SistemasWeb2025/Lab3_web_HTML/index.html) en tu navegador.
+1. **Abre el siguiente link:** [index.html](https://23197.benedict.lat/SistemasWeb2025/lab3/) en tu navegador.
 2. **Haz clic en en cualquiera de las 3 opciones** para iniciar la historia.
 3. **Toma decisiones** que afectarán el destino del astronauta.
 
